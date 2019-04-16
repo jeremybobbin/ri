@@ -1,0 +1,7 @@
+[package]
+name = "ri"
+version = "0.1.0"
+authors = ["jer"]
+edition = "2018"
+
+[dependencies]
